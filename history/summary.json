@@ -4,18 +4,20 @@
     "url": "https://www.hybridlights.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.hybridlights.nl.ico",
     "slug": "main-site-hybridlights-nl",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 911,
     "timeDay": 911,
     "timeWeek": 911,
     "timeMonth": 911,
     "timeYear": 911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-30": 0
+    }
   },
   {
     "name": "dev site",
