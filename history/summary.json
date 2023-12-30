@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1023,
-    "timeDay": 1023,
-    "timeWeek": 1023,
-    "timeMonth": 1023,
-    "timeYear": 1023,
+    "time": 834,
+    "timeDay": 834,
+    "timeWeek": 834,
+    "timeMonth": 834,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   },
   {
     "name": "dev site",
-    "url": "https://hybridlights.timoo-dev.nl",
+    "url": "https://hybridlights.timoo-dev.nl:5000",
     "icon": "https://icons.duckduckgo.com/ip3/hybridlights.timoo-dev.nl.ico",
     "slug": "dev-site",
     "status": "down",
-    "uptime": "77.28%",
-    "uptimeDay": "77.28%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "77.28%",
-    "uptimeYear": "77.28%",
+    "uptime": "14.08%",
+    "uptimeDay": "14.08%",
+    "uptimeWeek": "14.08%",
+    "uptimeMonth": "14.08%",
+    "uptimeYear": "14.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-30": 0
+      "2023-12-30": 3
     }
   }
 ]
