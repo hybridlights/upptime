@@ -8,5 +8,8 @@ sites:
   - name: dev site
     url: https://hybridlights.timoo-dev.nl
 
+status-website:
+  baseUrl: /upptime # where "repo" is your repository name
+  name: Hybridlights status
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
