@@ -8,6 +8,9 @@ sites:
   - name: dev site
     url: https://hybridlights.timoo-dev.nl
 
+assignees:
+  - tommie1236
+  
 status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: Hybridlights status
