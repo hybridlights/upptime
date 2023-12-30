@@ -6,7 +6,7 @@ sites:
   - name: main site (hybridlights.nl)
     url: https://www.hybridlights.nl
   - name: dev site
-    url: https://hybridlights.timoo-dev.nl
+    url: https://hybridlights.timoo-dev.nl:5000
 
 assignees:
   - tommie1236
