@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hybridlights.nl.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "10.46%",
-    "uptimeDay": "10.46%",
-    "uptimeWeek": "10.46%",
-    "uptimeMonth": "10.46%",
-    "uptimeYear": "10.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-12-30": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dev site",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 522,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "time": 608,
+    "timeDay": 608,
+    "timeWeek": 608,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   }
 ]
