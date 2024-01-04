@@ -22,19 +22,19 @@
     "url": "http://hybridlights.timoo-dev.nl:5000",
     "icon": "https://icons.duckduckgo.com/ip3/hybridlights.timoo-dev.nl.ico",
     "slug": "dev-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 597,
-    "timeWeek": 522,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "up",
+    "uptime": "93.30%",
+    "uptimeDay": "67.39%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "93.30%",
+    "time": 516,
+    "timeDay": 537,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-01-04": 0
+      "2024-01-04": 470
     }
   }
 ]
